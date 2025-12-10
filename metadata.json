@@ -1,0 +1,7 @@
+{
+  "name": "ArtiQ",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
